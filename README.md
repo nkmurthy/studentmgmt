@@ -3,8 +3,6 @@
 
 ## Prerequisites
 
-[Include any prerequisites or dependencies required to run the application, such as Java version, database, etc.]
-
 - Java JDK [17]
 - PostgreSQL [16]
 - Maven 
